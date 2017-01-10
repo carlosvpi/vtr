@@ -1,0 +1,24 @@
+{
+  "name": "vtr",
+  "version": "0.0.1",
+  "description": "Small 2d linear algebra module",
+  "main": "vtr.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvpi/vtr.git"
+  },
+  "keywords": [
+    "2d",
+    "algebra",
+    "vector"
+  ],
+  "author": "Carlos Vázquez Pérez-Íñigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosvpi/vtr/issues"
+  },
+  "homepage": "https://github.com/carlosvpi/vtr#readme"
+}
