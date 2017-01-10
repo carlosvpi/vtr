@@ -4,7 +4,8 @@
   "description": "Small 2d linear algebra module",
   "main": "vtr.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "browserify": "browserify -r ./vtr:vtr -o vtr.browser.js"
   },
   "repository": {
     "type": "git",
